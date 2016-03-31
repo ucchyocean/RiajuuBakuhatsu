@@ -1,0 +1,9 @@
+# ${project.name} v${project.version}
+# @author     ucchy
+# @license    LGPLv3
+# @copyright  Copyright ucchy 2016
+
+aprilfoolTimer: true
+destructTerrain: false
+explosionPower: 2.5
+nockbackPower: 2.0
